@@ -6,6 +6,6 @@ merupakan sebuah web dengan tema Destinasi tempat Liburan sesuai dengan keingina
 Berikut adalah tampilan sederhana dari web.
 
 
-![Screenshot (468)](https://github.com/IrfanHidayatulahP/-PDW7_20220140142/assets/127075020/62d5c52e-73c6-4c7b-a18b-446ab685af94)
+![Screenshot (470)](https://github.com/IrfanHidayatulahP/-PDW7_20220140142/assets/127075020/d0d49078-8555-4145-ba51-70ee8a264446)
 
-![Screenshot (469)](https://github.com/IrfanHidayatulahP/-PDW7_20220140142/assets/127075020/bd8e12f8-4ed1-4bf2-9745-9b620dea5119)
+![Screenshot (471)](https://github.com/IrfanHidayatulahP/-PDW7_20220140142/assets/127075020/8b20f152-9d93-4386-9d19-7053b184dfb0)
